@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CEFTest", "CEFTest\CEFTest.csproj", "{B85E03E8-43D7-44A9-8D9C-73946A58614B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B85E03E8-43D7-44A9-8D9C-73946A58614B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B85E03E8-43D7-44A9-8D9C-73946A58614B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B85E03E8-43D7-44A9-8D9C-73946A58614B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B85E03E8-43D7-44A9-8D9C-73946A58614B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {938E2CD6-DFE7-475B-AA5C-31C8F41CEBA4}
+	EndGlobalSection
+EndGlobal
